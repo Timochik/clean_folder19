@@ -1,0 +1,2 @@
+[console_scripts]
+main = clean_folder19.clean:main
